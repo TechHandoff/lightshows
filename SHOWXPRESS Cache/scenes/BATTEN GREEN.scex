@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1649845595" name="RGB" model="RGB"/>
+    <Fixture id="1649845636" name="RGB #2" model="RGB"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1649845595">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1649845636">
+        <Channel index="0" name="red" value="0" fade="1"/>
+        <Channel index="1" name="green" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

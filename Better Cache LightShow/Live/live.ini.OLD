@@ -1,0 +1,425 @@
+﻿
+[live]
+manual_bpm = 114
+master_faders = 4
+dmx_on = yes
+fade_time = 300
+auto_bpm_midiclock_device = 0
+auto_bpm_midiclock_divisor = 24
+[Params]
+ActiveTab = 0
+[master_faders]
+type_fader0 = 0
+caption_fader0 = 
+v8_master_fader0 = 
+live_mobile_fader0 = 1
+type_fader1 = 0
+caption_fader1 = Par Dimmer
+v8_master_fader1 = 1647959577,dimmer|1697617859,dimmer|1647959580,dimmer|1697617862,dimmer|1647959584,dimmer|1647959576,dimmer|1697617861,dimmer|1647959583,dimmer|1647959575,dimmer|1647959579,dimmer|1697617860,dimmer|1647959582,dimmer|1647959574,dimmer|1647959578,dimmer|1647959581,dimmer|1647959585,dimmer|
+live_mobile_fader1 = 1
+type_fader2 = 1
+caption_fader2 = 
+v8_master_fader2 = 
+live_mobile_fader2 = 1
+type_fader3 = 0
+caption_fader3 = 
+v8_master_fader3 = 
+live_mobile_fader3 = 1
+[display]
+speed_info = yes
+[page]
+number = 6
+[page1]
+name = ALL SOLID COLOR
+swap = yes
+nb_buttons = 27
+[page1_button1]
+line = 1
+column = 1
+name = all amber.scex
+title = all amber
+masterspeedfader = 0
+[page1_button2]
+line = 2
+column = 1
+name = all blue.scex
+title = all blue
+masterspeedfader = 0
+[page1_button3]
+line = 3
+column = 1
+name = all green.scex
+title = all green
+masterspeedfader = 0
+[page1_button4]
+line = 4
+column = 1
+name = all red.scex
+title = all red
+masterspeedfader = 0
+[page1_button5]
+line = 5
+column = 1
+name = all uv.scex
+title = all uv
+masterspeedfader = 0
+[page1_button6]
+line = 6
+column = 1
+name = all white.scex
+title = all white
+masterspeedfader = 0
+[page1_button7]
+line = 7
+column = 1
+name = all warm white.scex
+title = all warm white
+masterspeedfader = 0
+[page1_button8]
+line = 8
+column = 1
+name = peach.scex
+title = peach
+masterspeedfader = 0
+[page1_button9]
+line = 4
+column = 2
+name = amber_purp.scex
+title = amber_purp
+masterspeedfader = 0
+[page1_button10]
+line = 5
+column = 3
+name = mellon water.scex
+title = mellon water
+masterspeedfader = 0
+[page1_button11]
+line = 5
+column = 2
+name = purp_amber.scex
+title = purp_amber
+masterspeedfader = 0
+[page1_button12]
+line = 7
+column = 3
+name = under the sea.scex
+title = under the sea
+masterspeedfader = 0
+[page1_button13]
+line = 1
+column = 2
+name = uv lair.scex
+title = uv lair
+masterspeedfader = 0
+[page1_button14]
+line = 3
+column = 3
+name = warm 1.scex
+title = warm 1
+masterspeedfader = 0
+[page1_button15]
+line = 2
+column = 2
+name = warm_cool white.scex
+title = warm_cool white
+masterspeedfader = 0
+[page1_button16]
+line = 6
+column = 3
+name = watermellon.scex
+title = watermellon
+masterspeedfader = 0
+[page1_button17]
+line = 8
+column = 3
+name = creamsicle.scex
+title = creamsicle
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page1_button18]
+line = 3
+column = 2
+name = pink salmon.scex
+title = pink salmon
+masterspeedfader = 0
+[page1_button19]
+line = 4
+column = 3
+name = sunset.scex
+title = sunset
+masterspeedfader = 0
+[page1_button20]
+line = 2
+column = 3
+name = fire.scex
+title = fire
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page1_button21]
+line = 9
+column = 1
+name = seafoam.scex
+title = seafoam
+masterspeedfader = 0
+[page1_button22]
+line = 8
+column = 2
+name = pastel warm.scex
+title = pastel warm
+masterspeedfader = 0
+[page1_button23]
+line = 9
+column = 2
+name = cool pastel.scex
+title = cool pastel
+masterspeedfader = 0
+[page1_button24]
+line = 10
+column = 1
+name = mint.scex
+title = mint
+masterspeedfader = 0
+[page1_button25]
+line = 1
+column = 3
+name = OZ TRAILS NEEDS WORK.scex
+title = OZ TRAILS NEEDS WORK
+masterspeedfader = 0
+[page1_button26]
+line = 7
+column = 2
+name = orange blue.scex
+title = orange blue
+masterspeedfader = 0
+[page1_button27]
+line = 6
+column = 2
+name = blue orange.scex
+title = blue orange
+masterspeedfader = 0
+[page2]
+name = color generator\
+swap = yes
+nb_buttons = 20
+[page2_button1]
+line = 1
+column = 1
+name = buncha colors 2.gpj
+title = buncha colors 2
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button2]
+line = 2
+column = 1
+name = buncha colors.gpj
+title = buncha colors
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button3]
+line = 3
+column = 1
+name = dim cyanmaggreen.gpj
+title = dim cyanredgreen
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button4]
+line = 4
+column = 1
+name = Ocean Move.gpj
+title = Ocean Move
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button5]
+line = 5
+column = 1
+name = pink move.gpj
+title = pink move
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button6]
+line = 6
+column = 1
+name = slow white red purple.gpj
+title = slow white red purple
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button7]
+line = 1
+column = 2
+name = slow purple cyan.gpj
+title = slow purple cyan
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button8]
+line = 2
+column = 2
+name = slow white red.gpj
+title = slow white red
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button9]
+line = 3
+column = 2
+name = blue breath.gpj
+title = blue breath
+masterspeedfader = 0
+[page2_button10]
+line = 1
+column = 3
+name = fast cyan red.gpj
+title = fast cyan red
+masterspeedfader = 0
+[page2_button11]
+line = 2
+column = 3
+name = sherbert.gpj
+title = sherbert
+masterspeedfader = 0
+[page2_button12]
+line = 3
+column = 3
+name = cotton candy.gpj
+title = cotton candy
+masterspeedfader = 0
+[page2_button13]
+line = 4
+column = 3
+name = 4 sec rainbow.gpj
+title = 4 sec rainbow
+masterspeedfader = 0
+[page2_button14]
+line = 5
+column = 3
+name = 10 sec rgb.gpj
+title = 10 sec rgb
+masterspeedfader = 0
+[page2_button15]
+line = 1
+column = 4
+name = cool blue run.gpj
+title = cool blue run
+masterspeedfader = 0
+[page2_button16]
+line = 2
+column = 4
+name = mint dance.gpj
+title = mint dance
+masterspeedfader = 0
+[page2_button17]
+line = 3
+column = 4
+name = orange pink white.gpj
+title = orange pink white
+masterspeedfader = 0
+[page2_button18]
+line = 4
+column = 4
+name = pink white.gpj
+title = pink white
+masterspeedfader = 0
+[page2_button19]
+line = 1
+column = 5
+name = slow granny smith.gpj
+title = slow granny smith
+masterspeedfader = 0
+[page2_button20]
+line = 2
+column = 5
+name = slow cool.gpj
+title = slow cool
+masterspeedfader = 0
+[page3]
+name = cube color
+nb_buttons = 3
+[page3_button1]
+line = 1
+column = 1
+name = cool white cube.scex
+title = cool white cube
+masterspeedfader = 0
+[page3_button2]
+line = 2
+column = 1
+name = warm white cube.scex
+title = warm white cube
+masterspeedfader = 0
+[page3_button3]
+line = 3
+column = 1
+name = bright white cube.scex
+title = bright white cube
+masterspeedfader = 0
+[page4]
+name = FX
+nb_buttons = 4
+[page4_button1]
+line = 1
+column = 1
+name = sparkle.gpj
+title = sparkle
+masterspeedfader = 0
+fade_out = yes
+[page4_button2]
+line = 1
+column = 2
+name = white sine.gpj
+title = white sine
+masterspeedfader = 0
+fade_out = yes
+[page4_button3]
+line = 1
+column = 3
+name = cube blue uv.gpj
+title = cube blue uv
+masterspeedfader = 0
+fade_out = yes
+[page4_button4]
+line = 1
+column = 4
+name = white steps.scex
+title = white steps
+masterspeedfader = 0
+[page5]
+name = Page_1
+nb_buttons = 0
+[page6]
+name = utility
+nb_buttons = 1
+[page6_button1]
+line = 1
+column = 1
+name = dim on.scex
+title = dim on
+masterspeedfader = 0
+[board]
+number = 5
+[board1]
+screen = 0
+page = 2
+[board2]
+screen = 0
+page = 1
+[board3]
+screen = 0
+page = 4
+[board4]
+screen = 0
+page = 6
+[board5]
+screen = 1
+page = 1
+[screen0]
+window = no
+[screen1]
+window = no
